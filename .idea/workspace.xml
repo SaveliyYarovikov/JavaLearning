@@ -2,24 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b32bb97-af8e-4566-8e60-b36076e1f399" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/timus/task1001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/task1197.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/task1209.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/task1225.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/task1264.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/task1313.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/task1409.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/task1639.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/task1785.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/task1787.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/task1820.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/task1877.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/task1880.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/task1924.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/task2001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/task2012.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/task2066.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/task2100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr8/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr8/Example10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr8/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr8/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr8/Example4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr8/Example5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr8/Example6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr8/Example7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr8/Example8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr8/Example9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr8/Task2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,13 +48,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.task2100">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr5.Main" />
+  <component name="RunManager" selected="Application.Task3">
+    <configuration name="Example6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr8.Example6" />
       <module name="JavaLearnin" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr5.*" />
+          <option name="PATTERN" value="lr8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lr6.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr6.Main" />
+    <configuration name="Example7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr8.Example7" />
       <module name="JavaLearnin" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr6.*" />
+          <option name="PATTERN" value="lr8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lr7.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr7.Main" />
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr8.Task2" />
       <module name="JavaLearnin" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr7.*" />
+          <option name="PATTERN" value="lr8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task1409" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timus.task1409" />
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr8.Task3" />
       <module name="JavaLearnin" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="timus.*" />
+          <option name="PATTERN" value="lr8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task2100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timus.task2100" />
+    <configuration name="w" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr8.w" />
       <module name="JavaLearnin" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="timus.*" />
+          <option name="PATTERN" value="lr8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.task2100" />
-        <item itemvalue="Application.task1409" />
-        <item itemvalue="Application.lr7.Main" />
-        <item itemvalue="Application.lr6.Main" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.Example7" />
+        <item itemvalue="Application.w" />
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.Example6" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673895904845</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Initial commit">
+      <created>1674139146955</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674139146955</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -186,5 +186,16 @@
     <MESSAGE value="In" />
     <MESSAGE value="Initial commit" />
     <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lr8/Example7.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
