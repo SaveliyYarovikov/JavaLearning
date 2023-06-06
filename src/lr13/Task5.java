@@ -1,40 +1,29 @@
 package lr13;
-import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Random;
 public class Task5 {
     private static int max1 = 0;
     private static int max2 = 0;
     private static int max3 = 0;
     private static int max4 = 0;
-
     public static int FindTheHighestNumber(int [] array) throws InterruptedException{
         Thread t1 = new Thread(() -> {
             for (int i = 0; i < array.length / 4; i++){
-                if (array[i] > max1){
-                    max1 = array[i];
-                }
+                if (array[i] > max1){max1 = array[i];}
             }
         });
         Thread t2 = new Thread(() -> {
             for (int i = array.length / 4; i < array.length / 2; i++){
-                if (array[i] > max2){
-                    max2 = array[i];
-                }
+                if (array[i] > max1){max2 = array[i];}
             }
         });
         Thread t3 = new Thread(() -> {
             for (int i = array.length / 2; i < array.length - array.length / 4; i++){
-                if (array[i] > max2){
-                    max2 = array[i];
-                }
+                if (array[i] > max1){max3 = array[i];}
             }
         });
         Thread t4 = new Thread(() -> {
             for (int i = array.length - array.length / 4; i < array.length; i++){
-                if (array[i] > max4){
-                    max4 = array[i];
-                }
+                if (array[i] > max1){max4 = array[i];}
             }
         });
         t1.start();
@@ -57,7 +46,6 @@ public class Task5 {
         for (int i = 0; i < array.length; i++){
             array[i] = random.nextInt(10);
         }
-
         System.out.println(FindTheHighestNumber(array));
 
     }

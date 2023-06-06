@@ -1,5 +1,4 @@
 package lr10.Example1;
-
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 
@@ -8,10 +7,8 @@ import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.transform.OutputKeys;
 import java.io.File;
-
 public class CreateXMLFile {
     public static void main(String[] args) {
-
         try{
             DocumentBuilderFactory docFactory = DocumentBuilderFactory.newInstance();
             DocumentBuilder docBuilder = docFactory.newDocumentBuilder();
@@ -54,7 +51,6 @@ public class CreateXMLFile {
             book2.appendChild(year2);
 
             //Запись XML файла
-
             doc.setXmlStandalone(true);
             doc.normalizeDocument();
             javax.xml.transform.TransformerFactory tf = javax.xml.transform.TransformerFactory.newInstance();
@@ -66,7 +62,6 @@ public class CreateXMLFile {
             javax.xml.transform.stream.StreamResult result =
                     new javax.xml.transform.stream.StreamResult(new File("src/lr10/Example1/example.xml"));
             transformer.transform(source,result);
-
 
             System.out.println("XML-файл успешно создан");
         }catch (Exception e){

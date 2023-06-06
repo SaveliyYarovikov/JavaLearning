@@ -1,7 +1,5 @@
 package lr13;
 
-import java.util.concurrent.locks.Lock;
-
 public class Task3 {
 
     private static final Object lock = new Object();
@@ -45,7 +43,6 @@ public class Task3 {
                 }
             }
         });
-
         t1.setName("Even Thread");
         t2.setName("Odd thread");
 

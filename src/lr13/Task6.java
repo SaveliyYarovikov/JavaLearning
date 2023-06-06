@@ -1,14 +1,10 @@
 package lr13;
-
 import java.util.Random;
-
 public class Task6 {
-
     private static int sum1 = 0;
     private static int sum2 = 0;
     private static int sum3 = 0;
     private static int sum4 = 0;
-
     public static int FindSum(int [] array) throws InterruptedException{
 
         Thread t1 = new Thread(() -> {
@@ -41,8 +37,6 @@ public class Task6 {
         t4.join();
         return sum2 + sum1 + sum3 + sum4;
     }
-
-
     public static void main(String[] args) throws InterruptedException{
         Random random = new Random();
         int[] array = new int[12];

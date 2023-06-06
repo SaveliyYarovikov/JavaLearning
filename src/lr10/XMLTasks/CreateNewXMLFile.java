@@ -2,8 +2,6 @@ package lr10.XMLTasks;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
-
-
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.transform.OutputKeys;
@@ -11,10 +9,6 @@ import java.io.File;
 
 public class CreateNewXMLFile {
     public static void main(String[] args) {
-
-        //Николай Александрович, не нашел приложние к лабораторной работе, в котором должны были быть варианты
-        //создания собственного ХML-файла, поэтому попытался придумать собственный
-
         try{
             DocumentBuilderFactory docFactory = DocumentBuilderFactory.newInstance();
             DocumentBuilder docBuilder = docFactory.newDocumentBuilder();
@@ -57,7 +51,6 @@ public class CreateNewXMLFile {
             component2.appendChild(GPUFrequency);
 
             //Запись XML файла
-
             doc.setXmlStandalone(true);
             doc.normalizeDocument();
             javax.xml.transform.TransformerFactory tf = javax.xml.transform.TransformerFactory.newInstance();
@@ -69,7 +62,6 @@ public class CreateNewXMLFile {
             javax.xml.transform.stream.StreamResult result =
                     new javax.xml.transform.stream.StreamResult(new File("src/lr10/XMLTasks/NewXML.xml"));
             transformer.transform(source,result);
-
 
             System.out.println("XML-файл успешно создан");
         }catch (Exception e){

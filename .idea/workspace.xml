@@ -2,40 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b32bb97-af8e-4566-8e60-b36076e1f399" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/lr13/Task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr13/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus2/task1068.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus2/task1319.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus2/task1567.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus2/task1581.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus2/task1585.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus2/task1607.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus2/task1910.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus2/task2001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus2/task2023.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus2/task2056.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/ArrayAndLinkedList/UseArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/ArrayAndLinkedList/UseLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/CollectionsComparison/ArrayList/ArrayListOperationsTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/CollectionsComparison/ArrayList/ArrayListTimeToGetElementByIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/CollectionsComparison/LinkedList/LinkedListOperationsTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/CollectionsComparison/LinkedList/LinkedListTimeToGetElementByIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/CollectionsComparison/SortedSet/SortedSetOperationsTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/CollectionsComparison/SortedSet/SortedSetTimeToGetElementByIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/CreateArray/CreateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/CreateList/CreateListFromHead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/CreateList/CreateListFromTail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/CreateList/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/CreateList/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/Examples/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/Examples/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/Examples/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/Examples/Example4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/Examples/Example5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/HashMap/CreateHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/ToBinaryNumberSystem/ToBinaryNumberSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lr1/Example2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr1/Example2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lr10/Example1/CreateXMLFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr10/Example1/CreateXMLFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lr10/XMLTasks/CreateNewXMLFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr10/XMLTasks/CreateNewXMLFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lr13/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr13/Task3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lr13/Task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr13/Task5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timus/task1000.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timus1/task1000.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timus/task1001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timus1/task1001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timus/task1197.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timus1/task1197.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timus/task1209.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timus1/task1209.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timus/task1225.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timus1/task1225.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timus/task1264.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timus1/task1264.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timus/task1293.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timus1/task1293.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timus/task1313.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timus1/task1313.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timus/task1409.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timus1/task1409.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timus/task1639.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timus1/task1639.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timus/task1785.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timus1/task1785.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timus/task1787.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timus1/task1787.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timus/task1820.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timus1/task1820.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timus/task1877.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timus1/task1877.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timus/task1880.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timus1/task1880.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timus/task1924.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timus1/task1924.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timus/task2001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timus1/task2001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timus/task2012.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timus1/task2012.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timus/task2066.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timus1/task2066.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/timus/task2100.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timus1/task2100.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lr13/Task6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr13/Task6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lr13/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr13/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,20 +66,20 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/savel/IdeaProjects/JavaLearnin/json-simple-1.1.1.jar&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/IntelliJ IDEA/IdeaProjects/JavaLearnin&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Task6">
-    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr13.Task3" />
+  <component name="RunManager" selected="Application.ArrayListOperationsTime">
+    <configuration name="ArrayListOperationsTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr11.CollectionsComparison.ArrayList.ArrayListOperationsTime" />
       <module name="JavaLearnin" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr13.*" />
+          <option name="PATTERN" value="lr11.CollectionsComparison.ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr13.Task4" />
+    <configuration name="LinkedListOperationsTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr11.CollectionsComparison.LinkedList.LinkedListOperationsTime" />
       <module name="JavaLearnin" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr13.*" />
+          <option name="PATTERN" value="lr11.CollectionsComparison.LinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr13.Task5" />
+    <configuration name="SortedSetOperationsTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr11.CollectionsComparison.SortedSet.SortedSetOperationsTime" />
       <module name="JavaLearnin" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr13.*" />
+          <option name="PATTERN" value="lr11.CollectionsComparison.SortedSet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr13.Task6" />
+    <configuration name="SortedSetTimeToGetElementByIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr11.CollectionsComparison.SortedSet.SortedSetTimeToGetElementByIndex" />
       <module name="JavaLearnin" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr13.*" />
+          <option name="PATTERN" value="lr11.CollectionsComparison.SortedSet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +127,11 @@
       </method>
     </configuration>
     <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr13.test" />
+      <option name="MAIN_CLASS_NAME" value="lr11.CollectionsComparison.SortedSet.test" />
       <module name="JavaLearnin" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr13.*" />
+          <option name="PATTERN" value="lr11.CollectionsComparison.SortedSet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task6" />
-        <item itemvalue="Application.Task5" />
+        <item itemvalue="Application.ArrayListOperationsTime" />
+        <item itemvalue="Application.LinkedListOperationsTime" />
         <item itemvalue="Application.test" />
-        <item itemvalue="Application.Task4" />
-        <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.SortedSetOperationsTime" />
+        <item itemvalue="Application.SortedSetTimeToGetElementByIndex" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684150547269</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Initial commit">
+      <created>1684174594540</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1684174594540</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -230,16 +232,5 @@
     <MESSAGE value="In" />
     <MESSAGE value="Initial commit" />
     <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/lr13/Task6.java</url>
-          <line>53</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
